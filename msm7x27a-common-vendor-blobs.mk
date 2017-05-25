@@ -48,6 +48,7 @@ PRODUCT_COPY_FILES +=   vendor/samsung/msm7x27a-common/proprietary/lib/libpbmlib
 PRODUCT_COPY_FILES +=   vendor/samsung/msm7x27a-common/proprietary/lib/libwmsts.so:system/lib/libwmsts.so
 PRODUCT_COPY_FILES +=   vendor/samsung/msm7x27a-common/proprietary/lib/libping_mdm.so:system/lib/libping_mdm.so
 PRODUCT_COPY_FILES +=   vendor/samsung/msm7x27a-common/proprietary/lib/libhwrpc.so:system/lib/libhwrpc.so
+PRODUCT_COPY_FILES +=   vendor/samsung/msm7x27a-common/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so
 PRODUCT_COPY_FILES +=   vendor/samsung/msm7x27a-common/proprietary/bin/qmuxd:system/bin/qmuxd
 PRODUCT_COPY_FILES +=   vendor/samsung/msm7x27a-common/proprietary/bin/qmiproxy:system/bin/qmiproxy
 PRODUCT_COPY_FILES +=   vendor/samsung/msm7x27a-common/proprietary/bin/netmgrd:system/bin/netmgrd
